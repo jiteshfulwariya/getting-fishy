@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/catch-of-the-day/static/css/main.17d279e3.chunk.css",
+    "main.js": "/catch-of-the-day/static/js/main.75664d95.chunk.js",
+    "main.js.map": "/catch-of-the-day/static/js/main.75664d95.chunk.js.map",
+    "runtime-main.js": "/catch-of-the-day/static/js/runtime-main.c82cac56.js",
+    "runtime-main.js.map": "/catch-of-the-day/static/js/runtime-main.c82cac56.js.map",
+    "static/js/2.e1b6c027.chunk.js": "/catch-of-the-day/static/js/2.e1b6c027.chunk.js",
+    "static/js/2.e1b6c027.chunk.js.map": "/catch-of-the-day/static/js/2.e1b6c027.chunk.js.map",
+    "index.html": "/catch-of-the-day/index.html",
+    "precache-manifest.47d7c738c64b9c991ca754fe7adcd366.js": "/catch-of-the-day/precache-manifest.47d7c738c64b9c991ca754fe7adcd366.js",
+    "service-worker.js": "/catch-of-the-day/service-worker.js",
+    "static/css/main.17d279e3.chunk.css.map": "/catch-of-the-day/static/css/main.17d279e3.chunk.css.map",
+    "static/js/2.e1b6c027.chunk.js.LICENSE": "/catch-of-the-day/static/js/2.e1b6c027.chunk.js.LICENSE",
+    "static/media/style.css": "/catch-of-the-day/static/media/haymaker-webfont.e9535f20.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c82cac56.js",
+    "static/js/2.e1b6c027.chunk.js",
+    "static/css/main.17d279e3.chunk.css",
+    "static/js/main.75664d95.chunk.js"
+  ]
+}
